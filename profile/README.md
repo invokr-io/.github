@@ -1,4 +1,4 @@
-# [Invokr](https://invokr.io)
+# <a href="https://invokr.io" target="_blank"><img src="assets/logo-light.png" alt="Invokr" height="64" /></a>
 
 ### **Execute any command with confidence from Slack.**
 
